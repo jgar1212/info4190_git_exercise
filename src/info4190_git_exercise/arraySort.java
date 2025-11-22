@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class arraySort {
 	public static void main(String[] args) {
+		// This is a test comment
 		// Instantiate ArrayLists, new instance of Random class, Scanner
 		ArrayList<Integer> intArray = new ArrayList<>();
 		ArrayList<String> stringArray = new ArrayList<>();
